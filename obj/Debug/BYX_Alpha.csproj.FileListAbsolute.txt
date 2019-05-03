@@ -1,0 +1,25 @@
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON\BYX_Archiver\bin\Debug\BYX_Aplha.exe.config
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON\BYX_Archiver\bin\Debug\BYX_Aplha.exe
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON\BYX_Archiver\bin\Debug\BYX_Aplha.pdb
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON\BYX_Archiver\bin\Debug\Svg.dll
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON\BYX_Archiver\bin\Debug\Svg.pdb
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON\BYX_Archiver\bin\Debug\Svg.xml
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON\BYX_Archiver\obj\Debug\BYX_Archiver.Form1.resources
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON\BYX_Archiver\obj\Debug\BYX_Alpha.Properties.Resources.resources
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON\BYX_Archiver\obj\Debug\BYX_Alpha.csproj.GenerateResource.Cache
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON\BYX_Archiver\obj\Debug\BYX_Aplha.exe
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON\BYX_Archiver\obj\Debug\BYX_Aplha.pdb
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON\BYX_Archiver\bin\Debug\IconLib.dll
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON - v9.0\BYX_Archiver\bin\Debug\BYX_Aplha.exe.config
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON - v9.0\BYX_Archiver\bin\Debug\BYX_Aplha.exe
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON - v9.0\BYX_Archiver\bin\Debug\BYX_Aplha.pdb
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON - v9.0\BYX_Archiver\bin\Debug\IconLib.dll
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON - v9.0\BYX_Archiver\bin\Debug\Svg.dll
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON - v9.0\BYX_Archiver\bin\Debug\Svg.pdb
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON - v9.0\BYX_Archiver\bin\Debug\Svg.xml
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON - v9.0\BYX_Archiver\obj\Debug\BYX_Alpha.csprojResolveAssemblyReference.cache
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON - v9.0\BYX_Archiver\obj\Debug\BYX_Archiver.Form1.resources
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON - v9.0\BYX_Archiver\obj\Debug\BYX_Alpha.Properties.Resources.resources
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON - v9.0\BYX_Archiver\obj\Debug\BYX_Alpha.csproj.GenerateResource.Cache
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON - v9.0\BYX_Archiver\obj\Debug\BYX_Aplha.exe
+C:\Users\crush\OneDrive\Eric\Eric\BYX_ICON - v9.0\BYX_Archiver\obj\Debug\BYX_Aplha.pdb

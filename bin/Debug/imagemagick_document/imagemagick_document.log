@@ -1,0 +1,15 @@
+﻿  imagemagick_document.cpp
+c:\mathieu\projets\swiss\dev\byx_dev\formats\imagemagick\imagemagick_document.h(11): warning C4275: non dll-interface class 'byx::DocumentInterface' used as base for dll-interface class 'byx::ImageMagickDocument'
+  c:\mathieu\projets\swiss\dev\byx_dev\formats\imagemagick\../document_interface.h(13): note: see declaration of 'byx::DocumentInterface'
+  c:\mathieu\projets\swiss\dev\byx_dev\formats\imagemagick\imagemagick_document.h(10): note: see declaration of 'byx::ImageMagickDocument'
+imagemagick_document.cpp(27): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+imagemagick_document.cpp(183): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+imagemagick_document.cpp(184): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+     Creating library C:\Mathieu\projets\swiss\dev\byx_dev\build\x64\Release\imagemagick_document.lib and object C:\Mathieu\projets\swiss\dev\byx_dev\build\x64\Release\imagemagick_document.exp
+  Generating code
+  6 of 332 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  imagemagick_document.vcxproj -> C:\Mathieu\projets\swiss\dev\byx_dev\build\x64\Release\imagemagick_document.dll
+  imagemagick_document.vcxproj -> C:\Mathieu\projets\swiss\dev\byx_dev\build\x64\Release\imagemagick_document.pdb (Full PDB)

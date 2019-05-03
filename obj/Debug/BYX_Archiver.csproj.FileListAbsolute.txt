@@ -1,0 +1,11 @@
+C:\Users\crush\Dropbox\Eric\BYX_Archiver\BYX_Archiver\bin\Debug\BYX_Archiver.exe.config
+C:\Users\crush\Dropbox\Eric\BYX_Archiver\BYX_Archiver\bin\Debug\BYX_Archiver.exe
+C:\Users\crush\Dropbox\Eric\BYX_Archiver\BYX_Archiver\bin\Debug\BYX_Archiver.pdb
+C:\Users\crush\Dropbox\Eric\BYX_Archiver\BYX_Archiver\obj\Debug\BYX_Archiver.csprojResolveAssemblyReference.cache
+C:\Users\crush\Dropbox\Eric\BYX_Archiver\BYX_Archiver\obj\Debug\BYX_Archiver.Form1.resources
+C:\Users\crush\Dropbox\Eric\BYX_Archiver\BYX_Archiver\obj\Debug\BYX_Archiver.Properties.Resources.resources
+C:\Users\crush\Dropbox\Eric\BYX_Archiver\BYX_Archiver\obj\Debug\BYX_Archiver.csproj.GenerateResource.Cache
+C:\Users\crush\Dropbox\Eric\BYX_Archiver\BYX_Archiver\obj\Debug\BYX_Archiver.exe
+C:\Users\crush\Dropbox\Eric\BYX_Archiver\BYX_Archiver\obj\Debug\BYX_Archiver.pdb
+C:\Users\crush\Dropbox\Eric\BYX_Archiver\BYX_Archiver\bin\Debug\BYX_ICON.exe.config
+C:\Users\crush\Dropbox\Eric\BYX_ICON\BYX_Archiver\bin\Debug\BYX_ICON.exe.config
